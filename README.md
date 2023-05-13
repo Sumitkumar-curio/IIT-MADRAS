@@ -224,3 +224,17 @@ Title: Metaverse for Wellness
 Project Description: This project aims to develop immersive technologies to enhance well-being by building confidence, empathy, alleviating fear, and more.
 
 Qualification Criteria : Deep knowledge in Immersive technologies like Metaverse, AR, VR and an interest in applying these in the learning and wellbeing context, capability to create novel immersive games and activities. 
+################################################################################################################################################################33
+PO12
+
+Title: Train and Track Monitoring System
+
+Project Description: One of the main aspects of civil engineering is the maintenance of structures like buildings, bridges and even rail tracks. Rail tracks have to be carefully monitored for faults like minor cracks, displacements and regular strength checking.
+
+Maintenance is just as important as construction. And rail tracks are usually maintained by gang men, who regularly go on the site to test the tracks. This usually puts them at risk of injury as studies show that an average of 400 gang men die in accidents every year, most hit by trains, while on duty.
+
+Automatic/robotic train track monitoring is the objective of this study
+
+Qualification Criteria : BE in Engineering or Management Studies
+
+###########################################################################################################################################################################
